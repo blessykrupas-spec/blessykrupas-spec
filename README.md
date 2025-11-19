@@ -1,14 +1,4 @@
-<!-- Soft Pastel Banner -->
-<p align="center">
-  <img src="https://i.pinimg.com/originals/40/5d/ef/405defab7edf27c3a21dd0ecbb5f253e.gif" width="450" />
-</p>
-
-<h1 align="center">🌸 Hi, I'm Blessy! 💕</h1>
-
-<p align="center">
-  <em>✨ Digital Transformation Student • AI/ML ✨</em>
-</p>
-
+## Hi!, I'm Blessy! 
 
 
 ## 🌐 Socials:
