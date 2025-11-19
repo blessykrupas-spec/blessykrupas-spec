@@ -1,4 +1,4 @@
-## Hi!, I'm Blessy! 
+## Hi, I'm Blessy! 
 
 
 ## 🌐 Socials:
