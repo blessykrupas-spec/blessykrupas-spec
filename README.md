@@ -3,10 +3,10 @@
   <img src="https://i.pinimg.com/originals/40/5d/ef/405defab7edf27c3a21dd0ecbb5f253e.gif" width="450" />
 </p>
 
-<h1 align="center">🌸 Hiyaaa, I'm Blessy! (๑˃ᴗ˂)ﻭ 💕</h1>
+<h1 align="center">🌸 Hi, I'm Blessy! 💕</h1>
 
 <p align="center">
-  <em>✨ Digital Transformation Student • AI/ML Baby Dev • Backend Cutie 🍡 ✨</em>
+  <em>✨ Digital Transformation Student • AI/ML ✨</em>
 </p>
 
 
