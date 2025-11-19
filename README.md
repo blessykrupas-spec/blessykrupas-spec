@@ -1,4 +1,4 @@
-## Hi, I'm Blessy! 👋 const msg = "Welcome to Blessy's GitHub!";
+## Hi, I'm Blessy! 👋
 
 
 
